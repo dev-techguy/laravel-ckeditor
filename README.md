@@ -16,7 +16,7 @@ composer require techguy/laravel-ckeditor
 
 ### Add ServiceProvider
 
-Edit config/app.php, add the following file to `Application Service Providers` section.
+Edit config/app.php, add the following file to `Application Service Providers` section. *Use this for laravel 5.5 and below*
 ```
 Unisharp\Ckeditor\ServiceProvider::class,
 ```
