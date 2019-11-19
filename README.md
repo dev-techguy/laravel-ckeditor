@@ -11,7 +11,7 @@ CKEditor Package
 ### Set up package
 
 ```
-composer require unisharp/laravel-ckeditor
+composer require techguy/laravel-ckeditor
 ```
 
 ### Add ServiceProvider
