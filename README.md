@@ -1,3 +1,24 @@
+# <p align="center"><a href="#" target="_blank"><img src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_1fa90d1c07e091dc10fe667b0b97cc2b/ckeditor-4.png"></a></p>
+
+<p align="center">
+  <a href="https://github.com/dev-techguy/laravel-ckeditor/issues">
+  <img src="https://img.shields.io/github/issues/dev-techguy/laravel-ckeditor">
+  </a>
+  <a href="https://github.com/dev-techguy/laravel-ckeditor/network/members">
+  <img src="https://img.shields.io/github/forks/dev-techguy/laravel-ckeditor">
+  </a>
+  <a href="https://github.com/dev-techguy/laravel-ckeditor/stargazers">
+  <img src="https://img.shields.io/github/stars/dev-techguy/laravel-ckeditor">
+  </a>
+    <a href="https://packagist.org/packages/techguy/laravel-ckeditor">
+    <img src="https://poser.pugx.org/techguy/laravel-ckeditor/v/stable">
+    </a>
+    <a href="https://packagist.org/packages/techguy/laravel-ckeditor">
+    <img src="https://poser.pugx.org/techguy/laravel-ckeditor/downloads">
+    </a>
+  <br><br>
+</p>
+
 CKEditor Package
 =====================
 
